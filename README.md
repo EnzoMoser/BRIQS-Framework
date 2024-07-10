@@ -1,13 +1,11 @@
 # Briqs
 
-- To use, one must provide:
-  - The "+merit/" folder from "../declan_MERIT".
-  - The "+brigid/" folder from BRIGID.zip.
-- in the main directory.
+To use, one must place, in the main directory...
+- The "+merit/" folder from "../declan_MERIT".
+- The "+brigid/" folder from BRIGID.zip.
 
-- One could also provide:
-  - The "data/" folder from BRIGID.zip.
-- in the "dataset" folder in the main directory
+One can also place inside the "dataset" folder in the main directory...
+- The "data/" folder from BRIGID.zip.
 
 # Breast Radar-based Image Quality Analysis (BRIQS) Framework
 BRIQS provides an open-source reconstruction software through MERIT (https://github.com/EMFMed/MERIT) with the BRIGID phantom dataset for Microwave Radar-based Image Quality Analysis. BRIQS contains functions for configuring image regions and assessing these through a number of metrics. 
