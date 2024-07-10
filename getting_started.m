@@ -98,7 +98,7 @@ signal_3d = points(sig_reg == 1, :); % Points where reg == 1
 clutter_3d = points(sig_reg == 0, :); % Points where reg == 0
 
 % Plot image regions as outlined meshes using a convex hull
-figure; 
+figure(3); 
 fontSize = 18;
 
 signal_mesh = convhull(signal_3d(:, 2)*100, signal_3d(:, 1)*100, signal_3d(:, 3)*100);
