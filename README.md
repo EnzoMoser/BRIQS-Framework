@@ -1,5 +1,6 @@
 # Briqs
 Make sure you have added brigd and merit to path before running any scripts!!!
+https://github.com/EnzoMoser/BC_Research
 
 # Breast Radar-based Image Quality Analysis (BRIQS) Framework
 BRIQS provides an open-source reconstruction software through MERIT (https://github.com/EMFMed/MERIT) with the BRIGID phantom dataset for Microwave Radar-based Image Quality Analysis. BRIQS contains functions for configuring image regions and assessing these through a number of metrics. 
